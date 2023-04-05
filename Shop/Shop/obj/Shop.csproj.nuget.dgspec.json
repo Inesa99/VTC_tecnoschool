@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Tasks\\Shop\\Shop\\Shop.csproj": {}
+    "C:\\Users\\User\\Desktop\\vtcErexeqiproekt\\VTC_tecnoschool\\Shop\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Tasks\\Shop\\Shop\\Shop.csproj": {
+    "C:\\Users\\User\\Desktop\\vtcErexeqiproekt\\VTC_tecnoschool\\Shop\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Tasks\\Shop\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\vtcErexeqiproekt\\VTC_tecnoschool\\Shop\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\User\\Desktop\\Tasks\\Shop\\Shop\\Shop.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\vtcErexeqiproekt\\VTC_tecnoschool\\Shop\\Shop\\Shop.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Tasks\\Shop\\Shop\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\vtcErexeqiproekt\\VTC_tecnoschool\\Shop\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -58,6 +58,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0-preview.2.23128.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
             }
           },
           "imports": [
